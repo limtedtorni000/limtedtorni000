@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ghalikhalid.com&style=for-the-badge&url=https%3A%2F%2Fghalikhalid.com)](https://ghalikhalid.com)
 
-## I'm a Student and Developer!!
+## WHO!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
